@@ -1,0 +1,6 @@
+=== KEY TAKEAWAYS ===
+1. Subtypes must be substitutable for their base types
+2. Don't strengthen preconditions in subtypes
+3. Don't weaken postconditions in subtypes
+4. Don't throw new exceptions that the base type doesn't throw
+5. Preserve the behavioral contract of the base class
