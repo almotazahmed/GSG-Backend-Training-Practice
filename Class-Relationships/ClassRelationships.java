@@ -364,5 +364,7 @@ public class ClassRelationships {
       intContainer.addItem(42);
       intContainer.addItem(100);
       System.out.println("Integer container first item: " + intContainer.getItem(0));
+      System.out.println("Hello end");
   }
 }
+
